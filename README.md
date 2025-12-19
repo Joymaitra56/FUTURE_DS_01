@@ -1,8 +1,28 @@
 # FUTURE_DS_01
 
+🛒 Superstore Sales Dashboard — Future Interns (Task 1)
+This repository showcases an interactive Sales Performance Dashboard developed in Power BI using the Superstore dataset.
+The project focuses on analyzing sales, profit, orders, categories, regions, and time-based trends to generate actionable business insights.
+The dashboard is designed to support data-driven decision-making through clear KPIs, dynamic visuals, and interactive filters.
+
+📁 Project Structure 
+FUTURE_DS_01/
+│
+├── 📊 Dashboard/
+│   └── Superstore_Sales_Dashboard.pbix
+│
+├── 📂 Dataset/
+│   └── Superstore.csv
+│
+├── 🖼 Screenshots/
+│   └── dashboard_overview.png
+│
+├── 📄 README.md
+
 📌 Project Overview
 This project presents an interactive Sales Performance Dashboard built using Power BI to analyze business performance across sales, profit, orders, categories, regions, and time.
 The dashboard enables stakeholders to quickly identify key trends, top-performing segments, and growth opportunities.
+
 
 🎯 Business Objective
 The objective of this dashboard is to:
@@ -11,7 +31,6 @@ The objective of this dashboard is to:
 •	Analyze category and regional performance
 •	Highlight top revenue-generating products
 •	Support data-driven business decisions
-
 
 Support data-driven business decisions
 
@@ -31,14 +50,16 @@ All KPIs are dynamic and update based on selected filters.
 •	Interactive Slicers (Category, Region, Date)
 •	Insight-driven summary for executives
 
+
 🛠 Tools & Technologies
 •	Power BI Desktop
 •	DAX (Data Analysis Expressions)
 •	Power Query for data transformation
 •	Microsoft Excel / CSV dataset
 
+
 📂 Dataset
-Source: Superstore Sales Dataset
+Source: https://www.kaggle.com/datasets/mohamed38/superstoredataset
 Format: CSV
 Time Period: 2011–2014
 
@@ -58,6 +79,7 @@ Time Period: 2011–2014
 📸 Dashboard Preview
 <img width="713" height="352" alt="image" src="https://github.com/user-attachments/assets/abea33f9-d9fa-49e5-a59c-a123b3066abf" />
 
-📌 Author
-Joy Maitra
-Aspiring Data Analyst | Power BI | SQL | Excel
+
+🙌 Acknowledgment
+This project is completed as part of the Future Interns – Data Science & Analytics Internship, Task 1.
+
