@@ -72,11 +72,10 @@ Time Period: 2011–2014
 2.	Open it using Power BI Desktop
 3.	Use slicers to filter by Category, Region, or Date
 4.	Hover over visuals to view detailed tooltips
-   
 
-📸 Dashboard Preview
-<img width="1170" height="658" alt="Superstore dashboard screenshort" src="https://github.com/user-attachments/assets/cf80e96b-7069-434b-af04-4f5faf73aebb" />
 
+## 📸 Dashboard Preview
+![Dashboard Overview](Screenshots/dashboard_overview.png)
 
 
 🙌 Acknowledgment
