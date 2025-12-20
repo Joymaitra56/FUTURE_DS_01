@@ -1,11 +1,12 @@
-# FUTURE_DS_01
+### FUTURE_DS_01
 
-🛒 Superstore Sales Dashboard — Future Interns (Task 1)
+## 🛒 Superstore Sales Dashboard — Future Interns (Task 1)
 This repository showcases an interactive Sales Performance Dashboard developed in Power BI using the Superstore dataset.
 The project focuses on analyzing sales, profit, orders, categories, regions, and time-based trends to generate actionable business insights.
 The dashboard is designed to support data-driven decision-making through clear KPIs, dynamic visuals, and interactive filters.
 
-📁 Project Structure 
+## 📁 Project Structure 
+```
 FUTURE_DS_01/
 │
 ├── 📊 Dashboard/
@@ -18,18 +19,19 @@ FUTURE_DS_01/
 │   └── dashboard_overview.png
 │
 ├── 📄 README.md
+```
 
-📌 Project Overview
+## 📌 Project Overview
+
 This project presents an interactive Sales Performance Dashboard built using Power BI to analyze business performance across sales, profit, orders, categories, regions, and time. The dashboard enables stakeholders to quickly identify key trends, top-performing segments, and growth opportunities.
-
-
-🎯 Business Objective
+---
+## 🎯 Business Objective
 The objective of this dashboard is to:
-•	Track overall sales and profitability
-•	Identify seasonal sales trends
-•	Analyze category and regional performance
-•	Highlight top revenue-generating products
-•	Support data-driven business decisions
+-	Track overall sales and profitability
+-	Identify seasonal sales trends
+-	Analyze category and regional performance
+-	Highlight top revenue-generating products
+-	Support data-driven business decisions
 
 Support data-driven business decisions
 
@@ -58,8 +60,6 @@ All KPIs are dynamic and update based on selected filters.
 
 📂 Dataset
 Source: https://www.kaggle.com/datasets/mohamed38/superstoredataset
-Format: CSV
-Time Period: 2011–2014
 
 🧠 Key Insights
 -	Sales peak during November–December, indicating strong year-end demand 
@@ -75,7 +75,7 @@ Time Period: 2011–2014
 
 
 ## 📸 Dashboard Preview
-![Dashboard Overview](Screenshots/dashboard_overview.png)
+<img width="1348" height="748" alt="1st dashboard" src="https://github.com/Joymaitra56/FUTURE_DS_01/blob/main/Screenshots/Screenshot%202025-12-19%20103256.png" />
 
 
 🙌 Acknowledgment
