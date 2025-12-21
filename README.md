@@ -75,7 +75,8 @@ Source: https://www.kaggle.com/datasets/mohamed38/superstoredataset
 
 
 ## 📸 Dashboard Preview
-<img width="1348" height="748" alt="1st dashboard" src="https://github.com/Joymaitra56/FUTURE_DS_01/blob/main/Screenshots/Screenshot%202025-12-19%20103256.png" />
+<img width="1348" height="748" alt="Business Superstore Dashboard" src="Screenshots/Business%20Superstore%20dashboard.png" />
+
 
 
 🙌 Acknowledgment
